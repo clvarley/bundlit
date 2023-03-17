@@ -1,0 +1,20 @@
+{
+  "name": "bundlit",
+  "version": "0.0.1",
+  "description": "A simple, opinionated CSS and JS bundler",
+  "main": "index.js",
+  "keywords": [
+    "CSS",
+    "JS",
+    "bundler",
+    "minified",
+    "compilation",
+    "assets"
+  ],
+  "author": "clvarley",
+  "license": "MIT",
+  "homepage": "https://github.com/clvarley/bundlit",
+  "devDependencies": {
+    "typescript": "^5.0.2"
+  }
+}
