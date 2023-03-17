@@ -2,7 +2,7 @@
   "name": "bundlit",
   "version": "0.0.1",
   "description": "A simple, opinionated CSS and JS bundler",
-  "main": "index.js",
+  "main": "dist/index.js",
   "keywords": [
     "CSS",
     "JS",
