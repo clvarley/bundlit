@@ -1,0 +1,11 @@
+{
+  "outDir": "dist/output/",
+  "files": [{
+    "input": "some/js/file.js",
+    "output": "compiled.js",
+    "minified": true
+  }, {
+    "input": "some/css/style.css",
+    "output": "style.min.css"
+  }]
+}

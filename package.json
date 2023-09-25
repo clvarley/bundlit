@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "A simple, opinionated CSS and JS bundler",
   "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
   "keywords": [
     "CSS",
     "JS",
@@ -15,6 +18,7 @@
   "license": "MIT",
   "homepage": "https://github.com/clvarley/bundlit",
   "devDependencies": {
+    "@types/node": "^18.15.3",
     "typescript": "^5.0.2"
   }
 }
